@@ -1,0 +1,10 @@
+* multiposter
+
+Small application to post to multiple services simultaneously
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/multiposter.git   |
+| commit  | 8b50164  |
+| systems | multiposter |
+|---------+-------------------------------------------|
+
