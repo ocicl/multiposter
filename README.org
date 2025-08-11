@@ -4,6 +4,6 @@ Small application to post to multiple services simultaneously
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/Shinmera/multiposter.git |
-| commit  | fda5a66                                         |
+| commit  | c7398be                                         |
 | systems | multiposter                                     |
 |---------+-------------------------------------------------|
